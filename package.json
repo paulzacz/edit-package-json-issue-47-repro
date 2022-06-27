@@ -1,0 +1,17 @@
+{
+  "name": "ts-4-7-repro",
+  "version": "1.0.0",
+  "description": "repro",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edit-package-json": "^0.6.4",
+    "typescript": "^4.7.4"
+  }
+}
